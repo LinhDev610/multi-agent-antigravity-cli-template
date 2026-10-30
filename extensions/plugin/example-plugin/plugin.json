@@ -1,0 +1,9 @@
+{
+  "name": "example-developer-kit",
+  "version": "1.0.0",
+  "description": "Example developer kit plugin providing specialized rules and skills for Antigravity CLI.",
+  "license": "MIT",
+  "author": "Antigravity Engineering",
+  "homepage": "https://github.com/example/developer-kit",
+  "repository": "https://github.com/example/developer-kit"
+}

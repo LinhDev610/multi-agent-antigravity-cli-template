@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "sqlite-helper": {
+      "command": "sqlite-mcp-server",
+      "args": [
+        "data/app.db"
+      ],
+      "env": {
+        "DB_READONLY": "true"
+      }
+    },
+    "remote-docs": {
+      "url": "https://mcp.internal.example.com/mcp"
+    }
+  }
+}
